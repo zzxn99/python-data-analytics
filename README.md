@@ -1,5 +1,5 @@
 # python-data-analytics
-Data Analytics Projects using Python
+Data Analytics and Machine Learning Projects using Python
 
 Libraries used:
 - Numpy
